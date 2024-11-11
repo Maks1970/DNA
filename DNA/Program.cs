@@ -31,7 +31,7 @@ namespace DNA
                         {
                             k++;
                         }
-                        else break;
+                        else break; 
                     }
                     //    while (i < dna.Length && dna[i] == A)
                     //{
